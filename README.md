@@ -1,8 +1,3 @@
-# Dynamic_Video_Streaming_Optimization
-
-
-# Project Overview
-
 
 Problem: Video Streaming Quality vs Network Condition
 
@@ -13,10 +8,6 @@ Problem: Video Streaming Quality vs Network Condition
 -> Optimize Buffering in real time
 -> Adjust Video Quality based on Network Conditions
 -> Prevent interruptions while maximizing quality
-
-
-# Algorithmic Approach
-
 
 # Divide and Conquer Approach
 
